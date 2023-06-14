@@ -1,0 +1,10 @@
+class Gokul_Data:
+    url = 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login'
+    username = 'Admin'
+    password = 'admin123'
+    search1 = 'PIM'
+    Firstname = 'Gokul'
+    Lastname = 'Nath'
+    username_Emp = 'Gokulnath1330'
+    password_Emp1 = 'gokulnath1330'
+    password_Emp2 = 'gokulnath1330'
